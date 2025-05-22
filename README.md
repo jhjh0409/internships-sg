@@ -31,6 +31,13 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Seagate | Front-End Developer Intern | [Apply](https://seagatecareers.com/job/Shugart-Front-End-Developer-Intern/1274190500/) | Not Available |
 | Seagate | Full Stack Developer Intern | [Apply](https://seagatecareers.com/job/Shugart-Full-Stack-Developer-Intern/1268713600/) | Not Available |
 | Seagate | Data Science Intern | [Apply](https://seagatecareers.com/job/Shugart-Data-Science-Intern/1268737800/) | Not Available |
+| Shopee | Algorithm Engineer Intern, Search Ranking | [Apply](https://careers.shopee.sg/job-detail/J00379395/1?channel=10001) | Aug - Dec 2025 |
+| Shopee | Algorithm Engineer Intern, Paid Ads - Brand & Live Ads | [Apply](https://careers.shopee.sg/job-detail/J00379158/1?channel=10001) | Summer 2025 |
+| Shopee | Algorithm Engineer Intern, Search Guide | [Apply](https://careers.shopee.sg/job-detail/J00379432/1?channel=10001) | May - Dec 2025 |
+| Shopee | Algorithm Engineer Intern, Chatbot - LLM | [Apply](https://careers.shopee.sg/job-detail/J02012842/1?channel=10001) | May - Dec 2025 |
+| Shopee | IT Project Manager (Intern) | [Apply](https://careers.shopee.sg/job-detail/J02011659/1?channel=10001) | Not Available |
+| Shopee | UI/UX - Marketplace Design Intern | [Apply](https://careers.shopee.sg/job-detail/J00327429/1?channel=10001) | Spring 2025 |
+| Shopee | Data Analyst Intern - Regional Marketing Analytics, Regional Brand & Growth Marketing | [Apply](https://careers.shopee.sg/job-detail/J00004459/1?channel=10001) | Summer & Fall 2025 |
 | Thales | Business App Support Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Business-App-Support-Intern_R0184857) | Not Available |
 | Thales | Software Engineer (Intern) | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Engineer--Intern-_R0283524) | Not Available |
 | Thales | Software Engineer Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/SINGAPORE/Software-Engineer-Intern_R0269765) | Not Available |
