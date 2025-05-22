@@ -1,4 +1,4 @@
-<h1>Singapore 2025 Tech Internships</h1>
+<h1>Singapore 2025 Internships</h1>
  
 This repository serves as a comprehensive and collaborative resource for **internship opportunities in Singapore**.
 
@@ -9,5 +9,5 @@ This repository serves as a comprehensive and collaborative resource for **inter
 
 <!-- prettier-ignore -->
 | Company | Role | Application | Season |
-|:---|:---|:---:|:---:|
+|:---|:---:|:---:|:---:|
 | Autodesk | Intern, Software Development Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/details/Intern--Software-Development-Engineer--PSET-IDL-ENG-_25WD85921) | May – October 2025 or July – December 2025 |
