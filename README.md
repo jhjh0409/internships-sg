@@ -11,6 +11,9 @@ This repository serves as a comprehensive and collaborative resource for **inter
 |:---|:---:|:---:|:---:|
 | Autodesk | Intern, Software Development Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/details/Intern--Software-Development-Engineer--PSET-IDL-ENG-_25WD85921) | May – October 2025 or July – December 2025 |
 | Acronis | Research Development Intern | [Apply](https://www.acronis.com/en-sg/careers/job/?slug=R-100226&title=research-development-intern&department=research-and-development) | Not Available |
+| Blackstone | Blackstone Technology and Innovations - Off cycle Internship, Software Engineering, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Technology-and-Innovations---Off-cycle-Internship--Software-Engineering--Singapore_37164) | Jan - June 2026 |
+| Blackstone | Blackstone Real Estate Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Real-Estate-Summer-Analyst--Singapore_35873) | June - August 2026 |
+| Blackstone | Blackstone Private Wealth –Client Coverage / Product Strategy Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Private-Wealth-Solutions--Client-Coverage---Product-Strategy-Summer-Analyst--Singapore_35425) | June - August 2026 |
 | Continental | Artificial Intelligence (AI) Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF82508O-p-7dc6460be9406ed842c5e4f7d64acf52/artificial-intelligence-ai-engineer-intern-ida-2025-00027-/) | Not Available |
 | Continental | AI Enablement System Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF79009Q-p-5f8ae4ca8fe880265d39f9ac67f03588/ai-enablement-system-engineer-intern-ida2025-00005-/) | Not Available |
 | Continental | AI Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF77629T-p-5f8ae4ca8fe880265d39f9ac67f03588/ai-engineer-intern-ida2025-00008-/) | Not Available |
@@ -23,9 +26,13 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | CPF | Software Engineering (SCD) Intern | [Apply](https://careers.cpf.gov.sg/job/2025-Summer-%2B-H2-Term-time-Internship-Software-Engineering-%28SCD%29-Intern/1162-en_GB) | June – December 2025 |
 | CPF | Product Design Intern | [Apply](https://careers.cpf.gov.sg/job/2025-H2-Term-time-Internship-Product-Design-Intern/1153-en_GB) | Sep 2025 to Jan 2026 |
 | CPF | Cloud Infra Engineer Intern | [Apply](https://careers.cpf.gov.sg/job/2025-H2-Term-time-Internship-Cloud-Infra-Engineer-Intern/1116-en_GB) | May – Dec 2025 |
+| Garena | Intern, Game Developer | [Apply](https://careers.garena.com/global/careers/J01988914) | Not Available |
+| Garena | Intern, Software Engineer | [Apply](https://careers.garena.com/global/careers/J01994571) | Not Available |
 | NETS | Intern - Software Developer | [Apply](https://careers.nets.com.sg/job/Braddell-Intern-Software-Developer/1060878466/) | Not Available |
 | NETS | Developer - Intern | [Apply](https://careers.nets.com.sg/job/Ubix-Developer-Intern/1062860666/) | Not Available |
 | NETS | Cybersecurity Intern | [Apply](https://careers.nets.com.sg/job/Braddell-Cybersecurity-Intern/1065701166/) | Not Available |
+| Schneider Electric | Software Development Intern | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/software-development-intern/85659/) | Jun or Jul 2025 |
+| Schneider Electric | System Test Intern | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/system-test-intern/84710/) | Jun or Jul 2025 |
 | Seagate | Hardware Engineering Intern | [Apply](https://seagatecareers.com/job/Shugart-Hardware-Engineering-Intern/1217461800/) | Not Available |
 | Seagate | Data Engineering Intern | [Apply](https://seagatecareers.com/job/Shugart-Data-Engineering-Intern/1274190900/) | Not Available |
 | Seagate | Front-End Developer Intern | [Apply](https://seagatecareers.com/job/Shugart-Front-End-Developer-Intern/1274190500/) | Not Available |
@@ -38,6 +45,8 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Shopee | IT Project Manager (Intern) | [Apply](https://careers.shopee.sg/job-detail/J02011659/1?channel=10001) | Not Available |
 | Shopee | UI/UX - Marketplace Design Intern | [Apply](https://careers.shopee.sg/job-detail/J00327429/1?channel=10001) | Spring 2025 |
 | Shopee | Data Analyst Intern - Regional Marketing Analytics, Regional Brand & Growth Marketing | [Apply](https://careers.shopee.sg/job-detail/J00004459/1?channel=10001) | Summer & Fall 2025 |
+| Singtel | DevOps & Software Development Intern | [Apply](https://groupcareers.singtel.com/job/DevOps-&-Software-Development-Intern-GeneralInternship-Sing/1058738166/) | Not Available |
+| Singtel | Cyber Security Analyst - Intern | [Apply](https://groupcareers.singtel.com/job/Cyber-Security-Analyst-Intern-GeneralInternship-Sing/1059047666/) | Not Available |
 | Thales | Business App Support Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Business-App-Support-Intern_R0184857) | Not Available |
 | Thales | Software Engineer (Intern) | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Engineer--Intern-_R0283524) | Not Available |
 | Thales | Software Engineer Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/SINGAPORE/Software-Engineer-Intern_R0269765) | Not Available |
