@@ -3,7 +3,7 @@
 This repository serves as a comprehensive and collaborative resource for **internship opportunities in Singapore**.
 
 * Focused exclusively on internships based in **Singapore**, including summer, winter and off-cycle openings.
-* Contribute by submitting a pull request or an issue. :)
+* Contribute by submitting a pull request or an issue.
 
 <h2>Internship List</h2>
 
@@ -13,12 +13,14 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Acronis | Research Development Intern | [Apply](https://www.acronis.com/en-sg/careers/job/?slug=R-100226&title=research-development-intern&department=research-and-development) | Not Available |
 | Amazon | Business Intel Engineer Intern, Prime International | [Apply](https://amazon.jobs/en/jobs/2966693/business-intel-engineer-intern-prime-international) | Not Available |
 | Amazon | Business Analyst Intern, Amazon Global Sourcing | [Apply](https://amazon.jobs/en/jobs/2895071/business-analyst-intern-amazon-global-sourcing) | July – December 2025 |
+| American Express | Not Available | Opening Dec 2025 | Not Available |
 | Blackstone | Blackstone Technology and Innovations - Off cycle Internship, Software Engineering, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Technology-and-Innovations---Off-cycle-Internship--Software-Engineering--Singapore_37164) | Jan - June 2026 |
 | Blackstone | Blackstone Real Estate Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Real-Estate-Summer-Analyst--Singapore_35873) | June - August 2026 |
 | Blackstone | Blackstone Private Wealth –Client Coverage / Product Strategy Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Private-Wealth-Solutions--Client-Coverage---Product-Strategy-Summer-Analyst--Singapore_35425) | June - August 2026 |
 | Citadel | Quantitative Research Analyst – 2025 Intern | [Apply](https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-asia/) | Not Available |
 | Citadel | International Equities – 2026 Intern | [Apply](https://www.citadel.com/careers/details/international-equities-2026-intern-asia/) | Not Available |
 | Continental | Artificial Intelligence (AI) Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF82508O-p-7dc6460be9406ed842c5e4f7d64acf52/artificial-intelligence-ai-engineer-intern-ida-2025-00027-/) | Not Available |
+| Citi | Not Available | Opening Aug 2025 | Not Available |
 | Continental | AI Enablement System Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF79009Q-p-5f8ae4ca8fe880265d39f9ac67f03588/ai-enablement-system-engineer-intern-ida2025-00005-/) | Not Available |
 | Continental | AI Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF77629T-p-5f8ae4ca8fe880265d39f9ac67f03588/ai-engineer-intern-ida2025-00008-/) | Not Available |
 | Continental | Robotics Systems Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF82510P-p-7dc6460be9406ed842c5e4f7d64acf52/robotics-systems-intern-ida-2025-00025-/) | Not Available |
@@ -40,11 +42,18 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Garena | Intern, Game Developer | [Apply](https://careers.garena.com/global/careers/J01988914) | Not Available |
 | Garena | Intern, Software Engineer | [Apply](https://careers.garena.com/global/careers/J01994571) | Not Available |
 | GIC | Not Available | Opening Jul 2025 | Not Available |
+| Jane Street | Not Available | Opening EOY | Not Available |
+| JPMorganChase | Not Available | Opening Sep - Oct 2025 | Not Available |
 | Marvell | Test Engineer Intern - Bachelors | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Singapore/Test-Engineer-Intern---Bachelors_2401937?clientRequestID=8a1a856597644afd8683192a7dbe0b55) | Not Available |
+| Mastercard | Not Available | Opening EOY | Not Available |
+| Morgan Stanley | Not Available | Opening Jun - Jul 2025 | Not Available |
 | NETS | Intern - Software Developer | [Apply](https://careers.nets.com.sg/job/Braddell-Intern-Software-Developer/1060878466/) | Not Available |
 | NETS | Developer - Intern | [Apply](https://careers.nets.com.sg/job/Ubix-Developer-Intern/1062860666/) | Not Available |
 | NETS | Cybersecurity Intern | [Apply](https://careers.nets.com.sg/job/Braddell-Cybersecurity-Intern/1065701166/) | Not Available |
 | Oracle | Technical Intern - Oracle OFSS Singapore | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/288576/) | Not Available |
+| Paypal | Fullstack Engineering Intern | [Apply](https://paypal.eightfold.ai/careerhub/explore/jobs/274906598051) | Not Available |
+| Paypal | PaaS LLMs Engineering Intern | [Apply](https://paypal.eightfold.ai/careers/job/274906598210) | Not Available |
+| Paypal | Quality Engineer Intern | [Apply](https://paypal.eightfold.ai/careers/job/274906598208) | Not Available |
 | PwC | Technology - Risk Services (Cybersecurity – Security Audit) Associate 2025 Intake | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=553198WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Cybersecurity%20%E2%80%93%20Security%20Audit)%20Associate%20%202025%20Intake&wdjobsite=Global_Campus_Careers) | Not Available |
 | PwC | Technology - Risk Services (Cybersecurity – Penetration Testing/Red Teaming) Associate - 2025 Intake | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=563484WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Cybersecurity%20%E2%80%93%20Penetration%20Testing/Red%20Teaming)%20Associate%20-%202025%20Intake&wdjobsite=Global_Campus_Careers) | Not Available |
 | PwC | Technology - Risk Services (Financial Services) Off Cycle Internship | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=608239WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Financial%20Services)%20Off%20Cycle%20Internship%20(July%2025%20-%20Dec%2025)&wdjobsite=Global_Campus_Careers) | July - Dec 2025 |
@@ -68,6 +77,7 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Shopee | Data Analyst Intern - Regional Marketing Analytics, Regional Brand & Growth Marketing | [Apply](https://careers.shopee.sg/job-detail/J00004459/1?channel=10001) | Summer & Fall 2025 |
 | Singtel | DevOps & Software Development Intern | [Apply](https://groupcareers.singtel.com/job/DevOps-&-Software-Development-Intern-GeneralInternship-Sing/1058738166/) | Not Available |
 | Singtel | Cyber Security Analyst - Intern | [Apply](https://groupcareers.singtel.com/job/Cyber-Security-Analyst-Intern-GeneralInternship-Sing/1059047666/) | Not Available |
+| Stripe | Not Available | Opening Aug - Sep 2025 | Not Available |
 | Thales | Business App Support Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Business-App-Support-Intern_R0184857) | Not Available |
 | Thales | Software Engineer (Intern) | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Engineer--Intern-_R0283524) | Not Available |
 | Thales | Software Engineer Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/SINGAPORE/Software-Engineer-Intern_R0269765) | Not Available |
@@ -75,5 +85,6 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Thales | Software Engineer Intern (Embedded Applications) | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/SINGAPORE/Software-Engineer--Intern---Embedded-Software-Application-_R0287112) | Not Available | 
 | Thales | ServiceNow Operations Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/ServiceNow-Operations-Intern_R0267588) | Not Available |
 | Tricentis | Solution Architect Intern | [Apply](https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/details/Solution-Architect-Intern---Summer-2025_JR104627) | Summer 2025 |
+| Visa | Not Available | Opening Nov - Dec 2025 | Not Available |
 | WISE | Data Analytics Intern | [Apply](https://wise.jobs/job/data-analytics-intern-6-months-in-singapore-jid-961) | Jun - Dec 2025 |
 
