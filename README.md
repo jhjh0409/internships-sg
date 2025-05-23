@@ -3,7 +3,7 @@
 This repository serves as a comprehensive and collaborative resource for **internship opportunities in Singapore**.
 
 * Focused exclusively on internships based in **Singapore**, including summer, winter and off-cycle openings.
-* Contribute by submitting a pull request or an issue.
+* Contribute by submitting a pull request or an issue. :)
 
 <h2>Internship List</h2>
 
