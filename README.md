@@ -3,17 +3,21 @@
 This repository serves as a comprehensive and collaborative resource for **internship opportunities in Singapore**.
 
 * Focused exclusively on internships based in **Singapore**, including summer, winter and off-cycle openings.
+* Contribute by submitting a pull request or an issue.
 
 <h2>Internship List</h2>
 
-<!-- prettier-ignore -->
 | Company | Role | Application Status | Season |
 |:---|:---:|:---:|:---:|
 | Autodesk | Intern, Software Development Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/details/Intern--Software-Development-Engineer--PSET-IDL-ENG-_25WD85921) | May – October 2025 or July – December 2025 |
 | Acronis | Research Development Intern | [Apply](https://www.acronis.com/en-sg/careers/job/?slug=R-100226&title=research-development-intern&department=research-and-development) | Not Available |
+| Amazon | Business Intel Engineer Intern, Prime International | [Apply](https://amazon.jobs/en/jobs/2966693/business-intel-engineer-intern-prime-international) | Not Available |
+| Amazon | Business Analyst Intern, Amazon Global Sourcing | [Apply](https://amazon.jobs/en/jobs/2895071/business-analyst-intern-amazon-global-sourcing) | July – December 2025 |
 | Blackstone | Blackstone Technology and Innovations - Off cycle Internship, Software Engineering, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Technology-and-Innovations---Off-cycle-Internship--Software-Engineering--Singapore_37164) | Jan - June 2026 |
 | Blackstone | Blackstone Real Estate Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Real-Estate-Summer-Analyst--Singapore_35873) | June - August 2026 |
 | Blackstone | Blackstone Private Wealth –Client Coverage / Product Strategy Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Private-Wealth-Solutions--Client-Coverage---Product-Strategy-Summer-Analyst--Singapore_35425) | June - August 2026 |
+| Citadel | Quantitative Research Analyst – 2025 Intern | [Apply](https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-asia/) | Not Available |
+| Citadel | International Equities – 2026 Intern | [Apply](https://www.citadel.com/careers/details/international-equities-2026-intern-asia/) | Not Available |
 | Continental | Artificial Intelligence (AI) Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF82508O-p-7dc6460be9406ed842c5e4f7d64acf52/artificial-intelligence-ai-engineer-intern-ida-2025-00027-/) | Not Available |
 | Continental | AI Enablement System Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF79009Q-p-5f8ae4ca8fe880265d39f9ac67f03588/ai-enablement-system-engineer-intern-ida2025-00005-/) | Not Available |
 | Continental | AI Engineer Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF77629T-p-5f8ae4ca8fe880265d39f9ac67f03588/ai-engineer-intern-ida2025-00008-/) | Not Available |
@@ -40,6 +44,7 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | NETS | Intern - Software Developer | [Apply](https://careers.nets.com.sg/job/Braddell-Intern-Software-Developer/1060878466/) | Not Available |
 | NETS | Developer - Intern | [Apply](https://careers.nets.com.sg/job/Ubix-Developer-Intern/1062860666/) | Not Available |
 | NETS | Cybersecurity Intern | [Apply](https://careers.nets.com.sg/job/Braddell-Cybersecurity-Intern/1065701166/) | Not Available |
+| Oracle | Technical Intern - Oracle OFSS Singapore | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/288576/) | Not Available |
 | PwC | Technology - Risk Services (Cybersecurity – Security Audit) Associate 2025 Intake | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=553198WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Cybersecurity%20%E2%80%93%20Security%20Audit)%20Associate%20%202025%20Intake&wdjobsite=Global_Campus_Careers) | Not Available |
 | PwC | Technology - Risk Services (Cybersecurity – Penetration Testing/Red Teaming) Associate - 2025 Intake | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=563484WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Cybersecurity%20%E2%80%93%20Penetration%20Testing/Red%20Teaming)%20Associate%20-%202025%20Intake&wdjobsite=Global_Campus_Careers) | Not Available |
 | PwC | Technology - Risk Services (Financial Services) Off Cycle Internship | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=608239WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Financial%20Services)%20Off%20Cycle%20Internship%20(July%2025%20-%20Dec%2025)&wdjobsite=Global_Campus_Careers) | July - Dec 2025 |
