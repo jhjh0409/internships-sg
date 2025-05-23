@@ -14,6 +14,11 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Amazon | Business Intel Engineer Intern, Prime International | [Apply](https://amazon.jobs/en/jobs/2966693/business-intel-engineer-intern-prime-international) | Not Available |
 | Amazon | Business Analyst Intern, Amazon Global Sourcing | [Apply](https://amazon.jobs/en/jobs/2895071/business-analyst-intern-amazon-global-sourcing) | July – December 2025 |
 | American Express | Not Available | Opening Dec 2025 | Not Available |
+| Binance | Binance Accelerator Program - Backend Engineer (Content) | [Apply](https://www.binance.com/en/careers/job?id=b5a273d8-15ae-4ef5-aec1-17336c23a6ec) | Not Available |
+| Binance | Binance Accelerator Program - Backend Engineer | [Apply](https://www.binance.com/en/careers/job?id=06a78202-1def-4d51-8040-5baee23478ea) | Not Available |
+| Binance | Binance Accelerator Program - iOS Engineer | [Apply](https://www.binance.com/en/careers/job?id=b07ac7ee-1160-4b95-b9a0-3d4dcede99e8) | Not Available |
+| Binance | Binance Accelarator Program - Devops Engineer | [Apply](https://www.binance.com/en/careers/job?id=b6c8b569-4ea2-4eec-bdde-54447a590b90) | Not Available |
+| Binance | Binance Accelerator Program - QA | [Apply](https://www.binance.com/en/careers/job?id=67336c92-441a-4767-b678-54516d259efb) | Not Available |
 | Blackstone | Blackstone Technology and Innovations - Off cycle Internship, Software Engineering, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Technology-and-Innovations---Off-cycle-Internship--Software-Engineering--Singapore_37164) | Jan - June 2026 |
 | Blackstone | Blackstone Real Estate Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Real-Estate-Summer-Analyst--Singapore_35873) | June - August 2026 |
 | Blackstone | Blackstone Private Wealth –Client Coverage / Product Strategy Summer Analyst, Singapore | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2026-Blackstone-Private-Wealth-Solutions--Client-Coverage---Product-Strategy-Summer-Analyst--Singapore_35425) | June - August 2026 |
@@ -42,11 +47,18 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Garena | Intern, Game Developer | [Apply](https://careers.garena.com/global/careers/J01988914) | Not Available |
 | Garena | Intern, Software Engineer | [Apply](https://careers.garena.com/global/careers/J01994571) | Not Available |
 | GIC | Not Available | Opening Jul 2025 | Not Available |
+| Google | Not Available | Opening EOY | Not Available |
+| Hoyoverse | Data Analyst Intern | [Apply](https://job-boards.greenhouse.io/hoyoverse/jobs/4512329007) | Not Available |
+| IBM | Client Engineering Intern | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=22861) | Not Available |
+| Infineon | Internship - IT Application Developer | [Apply](https://jobs.infineon.com/careers/job/563808959310823?domain=infineon.com#!source=400) | Not Available |
+| Infineon | Internship - IT Application Developer/Innovation | [Apply](https://jobs.infineon.com/careers/job?pid=563808959310824&domain=infineon.com) | Not Available |
+| Infineon | Internship - Data Science Analyst | [Apply](https://jobs.infineon.com/careers/job?pid=563808959017193&domain=infineon.com) | Not Available |
 | Jane Street | Not Available | Opening EOY | Not Available |
 | JPMorganChase | Not Available | Opening Sep - Oct 2025 | Not Available |
 | Marvell | Test Engineer Intern - Bachelors | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Singapore/Test-Engineer-Intern---Bachelors_2401937?clientRequestID=8a1a856597644afd8683192a7dbe0b55) | Not Available |
 | Mastercard | Not Available | Opening EOY | Not Available |
 | Morgan Stanley | Not Available | Opening Jun - Jul 2025 | Not Available |
+| Motional | Machine Learning Internship, Behaviors Research | [Apply](https://motional.com/open-positions#/6410602003) | Not Available |
 | NETS | Intern - Software Developer | [Apply](https://careers.nets.com.sg/job/Braddell-Intern-Software-Developer/1060878466/) | Not Available |
 | NETS | Developer - Intern | [Apply](https://careers.nets.com.sg/job/Ubix-Developer-Intern/1062860666/) | Not Available |
 | NETS | Cybersecurity Intern | [Apply](https://careers.nets.com.sg/job/Braddell-Cybersecurity-Intern/1065701166/) | Not Available |
@@ -58,6 +70,9 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | PwC | Technology - Risk Services (Cybersecurity – Penetration Testing/Red Teaming) Associate - 2025 Intake | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=563484WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Cybersecurity%20%E2%80%93%20Penetration%20Testing/Red%20Teaming)%20Associate%20-%202025%20Intake&wdjobsite=Global_Campus_Careers) | Not Available |
 | PwC | Technology - Risk Services (Financial Services) Off Cycle Internship | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=608239WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Financial%20Services)%20Off%20Cycle%20Internship%20(July%2025%20-%20Dec%2025)&wdjobsite=Global_Campus_Careers) | July - Dec 2025 |
 | PwC | Technology - Risk Services (Cloud Trust) Off-Cycle Internship | [Apply](https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=461535WD&wdcountry=SGP&jobtitle=Technology%20-%20Risk%20Services%20(Cloud%20Trust)%20Off-Cycle%20Internship%20(Jul%20-%20Dec%2024)&wdjobsite=Global_Campus_Careers) | Not Available |
+| Razer | Software Testing Intern | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Testing-Intern_JR2025005654) | Not Available |
+| Razer | Software Testing Intern | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Testing-Intern_JR2025005640) | Not Available |
+| Razer | Site Reliability Engineer Intern | [Apply](https://razer.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Systems-Development-Intern_JR2025005251) | Not Available |
 | Schneider Electric | Software Development Intern | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/software-development-intern/85659/) | Jun or Jul 2025 |
 | Schneider Electric | System Test Intern | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/system-test-intern/84710/) | Jun or Jul 2025 |
 | Seagate | Hardware Engineering Intern | [Apply](https://seagatecareers.com/job/Shugart-Hardware-Engineering-Intern/1217461800/) | Not Available |
@@ -78,6 +93,19 @@ This repository serves as a comprehensive and collaborative resource for **inter
 | Singtel | DevOps & Software Development Intern | [Apply](https://groupcareers.singtel.com/job/DevOps-&-Software-Development-Intern-GeneralInternship-Sing/1058738166/) | Not Available |
 | Singtel | Cyber Security Analyst - Intern | [Apply](https://groupcareers.singtel.com/job/Cyber-Security-Analyst-Intern-GeneralInternship-Sing/1059047666/) | Not Available |
 | Stripe | Not Available | Opening Aug - Sep 2025 | Not Available |
+| Synapxe | Automation and ITSM development | [Apply](https://careers-public-healthtech-jobs.synapxe.sg/job/Uni-Internship-May-to-Oct-2025-Automation-and-ITSM-development/34212944/) | May to Oct 2025 |
+| Synapxe | Full Stack Healthcare System Development | [Apply](https://careers-public-healthtech-jobs.synapxe.sg/job/Uni-Internship-May-to-Oct-2025-Full-Stack-Healthcare-System-Development/34208144/) | May to Oct 2025 |
+| Tencent | Cloud Engineer Intern | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Cloud-Engineer-Intern_R105451) | Not Available |
+| Tencent | WeChat - Data Science Intern | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/WeChat---Data-Science-Intern_R105347) | Not Available |
+| Tencent | Game Technical Testing Intern | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Game-Tester-Intern_R104959) | Not Available |
+| Tencent | SRE Intern | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/SRE-Intern_R105141-1) | Not Available |
+| Tencent | Software Engineer Intern | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Software-Engineer-Intern_R105194) | Not Available |
+| TikTok | Big Data Engineer Intern, Ads Data - 2025 Start | [Apply](https://lifeattiktok.com/search/7503767456424315144) | Not Available |
+| TikTok | Machine Learning Engineer, TikTok Search Local Services Intern - 2025 Start | [Apply](https://lifeattiktok.com/search/7484140512455395592) | Not Available |
+| TikTok | Backend Engineer Intern (TikTok Recommendation Developer Infrastructure) - 2025 Start | [Apply](https://lifeattiktok.com/search/7487925305547573512) | Not Available |
+| TikTok | Information Security Engineer Intern, Security Assurance - 2025 Start | [Apply](https://lifeattiktok.com/search/7495765231492614407) | Not Available |
+| TikTok | Machine Learning Engineer Intern, TikTok Search Ranking - 2025 Start | [Apply](https://lifeattiktok.com/search/7471182696737032466) | Not Available |
+| TikTok | Software Engineer, Algorithm Engineering Intern - 2025 Start | [Apply](https://lifeattiktok.com/search/7405476824921229606) | Not Available |
 | Thales | Business App Support Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Business-App-Support-Intern_R0184857) | Not Available |
 | Thales | Software Engineer (Intern) | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Engineer--Intern-_R0283524) | Not Available |
 | Thales | Software Engineer Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/SINGAPORE/Software-Engineer-Intern_R0269765) | Not Available |
