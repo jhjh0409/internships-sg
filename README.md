@@ -1,6 +1,6 @@
 <h1>Singapore 2025 Tech Internships</h1>
  
-This repository serves as a collaborative resource for **internship opportunities in Singapore**.
+This repository is a compilation of **internship opportunities in Singapore**.
 
 * Focused exclusively on internships based in **Singapore**, including summer, winter and off-cycle openings.
 * Feel free to contribute by submitting a pull request or an issue.
