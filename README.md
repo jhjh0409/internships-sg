@@ -113,6 +113,12 @@ This repository is a compilation of **internship opportunities in Singapore**.
 | Thales | Software Engineer Intern (Embedded Applications) | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/SINGAPORE/Software-Engineer--Intern---Embedded-Software-Application-_R0287112) | Not Available | 
 | Thales | ServiceNow Operations Intern | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/ServiceNow-Operations-Intern_R0267588) | Not Available |
 | Tricentis | Solution Architect Intern | [Apply](https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/details/Solution-Architect-Intern---Summer-2025_JR104627) | Summer 2025 |
+| UOB | Automation Specialist Intern, GMOC | [Apply](https://careers.uobgroup.com/job/Automation-Specialist-Intern%2C-GMOC-Sing/1065904666/) | Not Available |
+| UOB | Automation Specialist Intern, Center of Excellence | [Apply](https://careers.uobgroup.com/job/Automation-Specialist-Intern%2C-Center-of-Excellence-Sing/1065900766/) | Not Available |
+| UOB | Data Analyst Intern | [Apply](https://careers.uobgroup.com/job/Data-Analyst-Intern-Sing/1065905966/) | Not Available |
 | Visa | Not Available | Opening Nov - Dec 2025 | Not Available |
+| WSAudiology | Intern - Software Engineer (Production Test) | [Apply](https://careersapac.wsa.com/jobs/5927611-intern-software-engineer-production-test-july-dec-2025) | July - Dec 2025 |
+| WSAudiology | Intern - Software Test Automation Engineer | [Apply](https://careersapac.wsa.com/jobs/5972730-intern-software-test-automation-engineer) | Not Available |
+| WSAudiology | Intern - Software Development | [Apply](https://careersapac.wsa.com/jobs/5972746-intern-software-development) | Not Available |
 | WISE | Data Analytics Intern | [Apply](https://wise.jobs/job/data-analytics-intern-6-months-in-singapore-jid-961) | Jun - Dec 2025 |
 
