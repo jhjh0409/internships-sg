@@ -31,6 +31,7 @@ This repository is a compilation of **internship opportunities in Singapore**.
 | Continental | Robotics Systems Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF82510P-p-7dc6460be9406ed842c5e4f7d64acf52/robotics-systems-intern-ida-2025-00025-/) | Not Available |
 | Continental | Wireless Engineer (RF & Network) Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF68406O-p-7dc6460be9406ed842c5e4f7d64acf52/wireless-engineer-rf-network-intern-ida-2024-00089-/) | Not Available | Open |
 | Continental | Autonomous Mobile Robot Intern | [Apply](https://jobs.continental.com/en/detail-page/job-detail/REF69867P-p-7dc6460be9406ed842c5e4f7d64acf52/autonomous-mobile-robot-intern-ida2024-00088-/) | Not Available |
+| Continental | Full Stack Software Development Intern | [Apply](https://jobs.smartrecruiters.com/Continental/744000061588915-full-stack-software-development-intern-ida-2025-00032-?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) | Not Available |
 | CPF | Application Developer Intern | [Apply](https://careers.cpf.gov.sg/job/2025-H2-Term-time-Internship-Application-Developer-Intern/1161-en_GB) | Aug - Dec 2025 |
 | CPF | Java Developer Intern | [Apply](https://careers.cpf.gov.sg/job/2025-H2-Term-time-Internship-Java-Developer-Intern/1007-en_GB) | May - Dec |
 | CPF | Cybersecurity TechOps Intern | [Apply](https://careers.cpf.gov.sg/job/2025-H2-Term-time-Internship-Cybersecurity-TechOps-Intern/1120-en_GB) | Aug – Dec 2025 |
